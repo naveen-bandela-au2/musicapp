@@ -7,7 +7,7 @@ import "./radio.css";
 function Radio() {
     return (
         <div class="radio-body">
-           <h5 className="display-3 text-white mx-auto">.</h5>
+           <h5 className="display-3 text-white mx-auto">..</h5>
            <RadioPlayer/>
            <div style={{height:"85vh",overflowY:"scroll",backgroundColor:"whitesmoke"}} className="container mt-1">
            <Radiofilter/>

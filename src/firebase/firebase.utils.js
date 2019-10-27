@@ -3,14 +3,13 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyA6yU_z0TO6Qqpj71YQ_hTReBCBIkkRnNc",
-    authDomain: "melomac-app.firebaseapp.com",
-    databaseURL: "https://melomac-app.firebaseio.com",
-    projectId: "melomac-app",
-    storageBucket: "melomac-app.appspot.com",
-    messagingSenderId: "6267685758",
-    appId: "1:6267685758:web:546a0c3ff90b860369812f",
-    measurementId: "G-9FTFBCG89R"
+    apiKey: "AIzaSyCpoRQJY7ASuVvAClzmOwZCamNe306ZtFM",
+    authDomain: "navinmusic-f4806.firebaseapp.com",
+    databaseURL: "https://navinmusic-f4806.firebaseio.com",
+    projectId: "navinmusic-f4806",
+    storageBucket: "navinmusic-f4806.appspot.com",
+    messagingSenderId: "561615167359",
+    appId: "1:561615167359:web:1c32e995e8700fc6a2444a"
 };
 firebase.initializeApp(config);
 
